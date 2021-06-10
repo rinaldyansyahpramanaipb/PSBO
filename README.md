@@ -1,6 +1,6 @@
 # Laporan Akhir Projek Pengembangan Sistem Berorientasi Objek
 
-## Nama sistem, paralel praktikum, dan nomor kelompok
+## Sistem KRS Otomatis, P1, Kelompok 11
 
 ## Deskripsi singkat aplikasi
 (Isi deskripsi aplikasi)
