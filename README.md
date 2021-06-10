@@ -6,7 +6,7 @@
 (Isi deskripsi aplikasi)
 
 ## User analysis
-### User story
+- User story
 
 ## Spesifikasi teknis lingkungan pengembangan
 - Software
@@ -18,17 +18,17 @@
 ## Tipe desain pengembangan yang digunakan (Pattern/Anti Pattern)
 
 ## Hasil dan pembahasan
-### Use case diagram
-### Activity diagram
-### Class diagram
-### Entity Relationship Diagram
-### Arsitektur sistem
-### Fungsi utama yang dikembangkan
-### Fungsi CRUD
+- Use case diagram
+- Activity diagram
+- Class diagram
+- Entity Relationship Diagram
+- Arsitektur sistem
+- Fungsi utama yang dikembangkan
+- Fungsi CRUD
 
 ## Hasil implementasi
-### Screenshot sistem
-### Link aplikasi (jika sudah di deploy)
+- Screenshot sistem
+- Link aplikasi (jika sudah di deploy)
 
 ## Saran untuk pengembangan selanjutnya
 
