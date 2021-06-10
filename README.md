@@ -7,6 +7,14 @@
 
 ## User analysis
 - User story
+  Sebagaimahasiswa IPB
+      Saya ingin situs KRS IPB dapat mengisi sisa jadwal yang belum diambil
+   secara otomatis atau memberikan saran jadwal tanpa bentrok agar saya
+   tidak perlu mengisi mata kuliah yang tidak bentrok tersebut secara manual.
+   lagi.
+   Sebagaimahasiswa IPB
+      Saya ingin mengetahui daftar SC yang dapat saya ambil berdasarkan
+   jadwal saya saat ini agar saya tidak perlu mencari SC secara manual.
 
 ## Spesifikasi teknis lingkungan pengembangan
 - Software
