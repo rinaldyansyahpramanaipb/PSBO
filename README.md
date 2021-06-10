@@ -9,9 +9,9 @@
 ### User story
 
 ## Spesifikasi teknis lingkungan pengembangan
-### Software
-### Hardware
-### Tech Stack
+- Software
+- Hardware
+- Tech Stack
 
 ## Konsep OOP yang digunakan
 
