@@ -3,7 +3,7 @@
 ## Sistem KRS Otomatis, P1, Kelompok 11
 
 ## Deskripsi singkat aplikasi
-KRS Otomatis Adalah sebuah aplikasi berbasis web yang dibuat untuk mempermudah mahasiswa dalam mengambil jadwal kuliah agar tidak bentrok satu sama lain.
+    KRS Otomatis Adalah sebuah aplikasi berbasis web yang dibuat untuk mempermudah mahasiswa dalam mengambil jadwal kuliah agar tidak bentrok satu sama lain.
 
 ## User analysis
 - User story
