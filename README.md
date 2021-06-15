@@ -27,7 +27,7 @@
 
 ## Hasil dan pembahasan
 - Use case diagram
-   https://github.com/rinaldyansyahpramanaipb/PSBO/issues/1#issue-921530911
+   ![use case diagram](https://user-images.githubusercontent.com/60083995/122082764-76ae1300-ce2a-11eb-84ab-e6a36af54bf7.PNG)
 
 - Activity diagram
 - Class diagram
