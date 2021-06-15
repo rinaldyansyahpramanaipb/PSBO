@@ -35,7 +35,7 @@
 
 - Activity diagram
 
-   ![activity diagram](https://user-images.githubusercontent.com/60166806/122094117-fc838b80-ce35-11eb-9599-7ea58e01930a.png)
+   ![activity diagram](https://user-images.githubusercontent.com/60166806/122094228-22109500-ce36-11eb-983a-b29c01ce436f.jpg)
 
 - Class diagram
 
