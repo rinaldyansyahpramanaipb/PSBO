@@ -35,6 +35,8 @@
 
 - Activity diagram
 - Class diagram
+
+   ![class diagram](https://user-images.githubusercontent.com/60166806/122086843-4cf6eb00-ce2e-11eb-827c-efc2af17c67d.png)
 - Entity Relationship Diagram
 - Arsitektur sistem
 - Fungsi utama yang dikembangkan
