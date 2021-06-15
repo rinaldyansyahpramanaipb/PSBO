@@ -27,6 +27,8 @@
 
 ## Hasil dan pembahasan
 - Use case diagram
+      ![image](https://user-images.githubusercontent.com/60083995/122080036-246bf280-ce28-11eb-860d-18be3885b750.png)
+
 - Activity diagram
 - Class diagram
 - Entity Relationship Diagram
