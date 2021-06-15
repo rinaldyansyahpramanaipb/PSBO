@@ -1,0 +1,567 @@
+body{
+    background-color: #FFFFFF;
+}
+
+#header{
+    position: absolute;
+    margin-top: -22px;
+    margin-left: -8px;
+    width: 100%;
+    height:75px;
+    background-color: #1c7ad8;
+}
+
+#logoipb{
+    width: 30px;
+    height: auto;
+    margin-top: 31px;
+    margin-left: 20px;
+}
+
+#krs{
+    position: absolute;
+    margin-top: -29px;
+    margin-left: 60px;
+    font-family: Arial;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 15pt;
+}
+
+#nama{
+    position: absolute;
+    margin-top: -29px;
+    margin-left: 187px;
+    font-family: Arial;
+    color: #7fb4e9;
+    font-size: 15pt;
+}
+
+#nim{
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 600px;
+    font-family: Arial;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 9pt;
+}
+
+#logout{
+    position: absolute;
+    margin-left: 1120px;
+    margin-top: 38px;
+    width: 17px;
+    height:auto;
+    
+}
+
+#log-out{
+    position: absolute;
+    margin-top: -30px;
+    margin-left: 1192px;
+    font-family: Arial;
+    color: #FFFFFF;
+    font-size: 12pt;
+}
+
+img{
+    margin-top: 53px;
+    margin-left: -8px;
+    max-width: 101.25%;
+    height: auto;
+}
+
+#header-text{
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: lighter;
+    margin-top: -138px;
+    margin-left: 530px;
+    color: #FFFFFF;
+}
+
+#subtitle{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: lighter;
+    margin-top: -15px;
+    margin-left: 218px;
+    color: #FFFFFF;
+}
+
+#jadwal-saya{
+    width: 622px;
+    height: 64px;
+    border: 1px white;
+    border-radius:2px;
+    margin-top: 65px;
+    background-color: #007bff;
+}
+
+#jadwal-saya-text{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: lighter;
+    margin-top: -25px;
+    margin-left: 36px;
+    color: #FFFFFF;
+}
+
+#jadwal{
+    width: 20px;
+    height: auto;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+#keterangan{
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: lighter;
+    margin-top: -42px;
+    margin-left: 300px;
+    color: #FFFFFF;
+}
+
+#kuliah{
+    width: 48px;
+    height: 16px;
+    background-color: #009bef;
+    margin-top: -35px;
+    margin-left: 400px;
+    border-radius: 4px;
+}
+
+#kuliah-text{
+    font-family: Arial;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 5px;
+    padding-top: 2px;
+    font-size: 12px;
+    color: #000000;
+}
+
+#praktikum{
+    width: 64px;
+    height: 16px;
+    background-color: #32cabc;
+    margin-top: -35px;
+    margin-left: 455px;
+    border-radius: 4px;
+}
+
+#praktikum-text{
+    font-family: Arial;
+    font-weight: bold;
+    margin-top: 20px;
+    padding-top: 2px;
+    margin-left: 4px;
+    font-size: 12px;
+    color: black;
+}
+
+#responsi{
+    width: 64px;
+    height: 16px;
+    background-color: #ffeb3b;
+    margin-top: -36px;
+    margin-left: 525px;
+    border-radius: 4px;
+}
+
+#responsi-text{
+    font-family: Arial;
+    font-weight: bold;
+    margin-top: 20px;
+    padding-top: 2px;
+    margin-left: 4px;
+    font-size: 12px;
+    color: black;
+}
+
+#tabel-jadwal{
+    border-collapse: collapse;
+    width: 622px;
+    border-color: black;
+}
+
+#tabel-jadwal td, #tabel-jadwal th {
+  border: 1px solid #ddd;
+  padding: 12px;
+}
+
+#tabel-jadwal tr:nth-child(odd){height: 40px}
+#tabel-jadwal th:nth-child(7){background-color: #f2f2f2}
+#tabel-jadwal th:nth-child(odd){font-weight: lighter;}
+#tabel-jadwal th:nth-child(even){font-weight: lighter;}
+
+#matkul-tersedia{
+    width: 600px;
+    height: 64px;
+    border: 1px white;
+    border-radius:2px;
+    margin-top: -1196px;
+    margin-left: 645px;
+    background-color: #007bff;
+}
+
+#matkul{
+    width: 20px;
+    height: auto;
+    margin-left: 10px;
+    margin-top: 23px;
+}
+
+#matkul-tersedia-text{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: lighter;
+    margin-top: -23px;
+    margin-left: 36px;
+    color: #FFFFFF;
+}
+
+#daftar-matkul{
+    width: 600px;
+    height: 900px;
+    margin-top: -1px;
+    margin-left: 645px;
+    background-color: #FFFFFF;
+    border: 1.5px solid #e0e0e0;
+    box-sizing: border-box ;
+}
+
+#search{
+    width: 200px;
+    height: 30px;
+    margin-left: 380px;
+    margin-top: -48px;
+    border-radius: 3px;
+    background-color: white;
+}
+
+#pilih{
+    width: 600px;
+    height: 80px;
+    margin-left: -1px;
+    margin-top: -2px;
+    background-color: white;
+    border: 1.5px solid #e0e0e0;
+    box-sizing: border-box;
+}
+
+#kode-pilih{
+    font-family: Arial;
+    color: #0082ff;
+    font-size: 12pt;
+    margin-left: 17px;
+}
+
+#nama-pilih{
+    font-family: Arial;
+    color: black;
+    font-size: 12pt;
+    margin-top: -35px;
+    margin-left: 90px;
+}
+
+#sub-nama-pilih{
+    font-family: Arial;
+    color: black;
+    font-size: 12pt;
+    margin-top: -8px;
+    margin-left: 17px;
+}
+
+#ambil{
+    font-family: Helvetica, sans-serif;
+    margin-top: -50px;
+    margin-left: 515px;
+    background-color: #55b667;
+    border-radius: 5px;
+    width: 55px;
+    height: 25px;
+    cursor: pointer;
+}
+
+#teks-ambil{
+    color: white;
+    font-size: 10pt;
+    text-align: center;
+    padding: 5px;
+    font-weight: bold;
+
+}
+
+#senin{
+    position: absolute;
+    word-wrap: break-word;
+    width: 80px;
+    height: 100px;
+    margin-top: -15px;
+    margin-left: -7px;
+    border-radius: 4px;
+    background-color: #009bef;
+}
+
+#waktu{
+    margin-top: 10px;
+    margin-left: 3px;
+    line-height: 1.2;
+    font-family: Arial;
+    font-size: 8pt;
+    text-align: left;
+}
+
+#senin-bentrok{
+    position: absolute;
+    word-wrap: break-word;
+    width: 39px;
+    height: 100px;
+    margin-top: -15px;
+    margin-left: -7px;
+    border-radius: 4px;
+    background-color: #009bef;
+}
+
+#senin-bentrok2{
+    position: absolute;
+    word-wrap: break-word;
+    width: 39px;
+    height: 100px;
+    margin-top: -15px;
+    margin-left: 36px;
+    border-radius: 4px;
+    background-color: #009bef;
+}
+
+#selasa-p{
+    position: absolute;
+    word-wrap: break-word;
+    width: 85px;
+    height: 155px;
+    margin-top: -15px;
+    margin-left: -5px;
+    border-radius: 4px;
+    background-color: #32d4c5;
+}
+
+#selasa{
+    position: absolute;
+    word-wrap: break-word;
+    width: 85px;
+    height: 100px;
+    margin-top: -15px;
+    margin-left: -5px;
+    border-radius: 4px;
+    background-color: #009bef;
+}
+
+#selasa-p-bentrok{
+    position: absolute;
+    word-wrap: break-word;
+    width: 42px;
+    height: 155px;
+    margin-top: -15px;
+    margin-left: -5px;
+    border-radius: 4px;
+    background-color: #32d4c5;
+}
+
+#selasa-p-bentrok2{
+    position: absolute;
+    word-wrap: break-word;
+    width: 42px;
+    height: 155px;
+    margin-top: -15px;
+    margin-left: 41px;
+    border-radius: 4px;
+    background-color: #32d4c5;
+}
+
+#rabu-bentrok{
+    position: absolute;
+    word-wrap: break-word;
+    width: 39px;
+    height: 100px;
+    margin-top: -15px;
+    margin-left: -10px;
+    border-radius: 4px;
+    background-color: #009bef;
+}
+
+#rabu-bentrok2{
+    position: absolute;
+    word-wrap: break-word;
+    width: 39px;
+    height: 100px;
+    margin-top: -15px;
+    margin-left: 32px;
+    border-radius: 4px;
+    background-color: #009bef;
+}
+
+#rabu-bentrok-p{
+    position: absolute;
+    word-wrap: break-word;
+    width: 39px;
+    height: 100px;
+    margin-top: -15px;
+    margin-left: -10px;
+    border-radius: 4px;
+    background-color: #32d4c5;
+}
+
+#rabu-bentrok2-p{
+    position: absolute;
+    word-wrap: break-word;
+    width: 39px;
+    height: 100px;
+    margin-top: -15px;
+    margin-left: 32px;
+    border-radius: 4px;
+    background-color: #32d4c5;
+}
+
+#rabu-bentrok-p-komdat{
+    position: absolute;
+    word-wrap: break-word;
+    width: 39px;
+    height: 157px;
+    margin-top: 27px;
+    margin-left: -10px;
+    border-radius: 4px;
+    background-color: #32d4c5;
+}
+
+#rabu-bentrok2-p-komdat{
+    position: absolute;
+    word-wrap: break-word;
+    width: 39px;
+    height: 157px;
+    margin-top: 27px;
+    margin-left: 32px;
+    border-radius: 4px;
+    background-color: #32d4c5;
+}
+
+#kamis{
+    position: absolute;
+    word-wrap: break-word;
+    width: 85px;
+    height: 100px;
+    margin-top: -15px;
+    margin-left: -5px;
+    border-radius: 4px;
+    background-color: #009bef;
+}
+
+#kamis-p{
+    position: absolute;
+    word-wrap: break-word;
+    width: 85px;
+    height: 100px;
+    margin-top: -15px;
+    margin-left: -5px;
+    border-radius: 4px;
+    background-color: #32d4c5;
+}
+
+#kamis-r{
+    position: absolute;
+    word-wrap: break-word;
+    width: 85px;
+    height: 157px;
+    margin-top: 27px;
+    margin-left: -5px;
+    border-radius: 4px;
+    background-color: #ffeb3b;
+}
+
+#jumat{
+    position: absolute;
+    word-wrap: break-word;
+    width: 85px;
+    height: 133px;
+    margin-top: 25px;
+    margin-left: -7px;
+    border-radius: 4px;
+    background-color: #009bef;
+}
+
+#jumat-bentrok-p{
+    position: absolute;
+    word-wrap: break-word;
+    width: 40px;
+    height: 133px;
+    margin-top: 25px;
+    margin-left: -7px;
+    border-radius: 4px;
+    background-color: #32d4c5;
+}
+
+#jumat-bentrok2-p{
+    position: absolute;
+    word-wrap: break-word;
+    width: 40px;
+    height: 133px;
+    margin-top: 25px;
+    margin-left: 38px;
+    border-radius: 4px;
+    background-color: #32d4c5;
+}
+tr{
+    font-family: Arial;
+    font-size: 12pt;
+
+}
+
+
+h1{
+    font-family: Open Sans,sans-serif;
+    color: black;
+    text-align: left;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+form input{
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    border-width: 1px;
+    border-color: #707070;
+    border-radius: 4px;
+    width: 400px;
+    height: 20px;
+}
+
+form button{
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+    background-color: #007bff;
+    border-radius: 4px;
+    width: 422px;
+    height: 43px;
+    color: white;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: #49C2CB;
+    margin-left: 1px;
+    font-family: Arial;
+    font-size: 14px;
+    text-orientation: center;
+}
+
+footer{
+    font-family: Calibri;
+
+}
