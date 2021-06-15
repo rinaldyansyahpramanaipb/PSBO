@@ -34,9 +34,13 @@
    ![use case diagram](https://user-images.githubusercontent.com/60083995/122082764-76ae1300-ce2a-11eb-84ab-e6a36af54bf7.PNG)
 
 - Activity diagram
+
+   ![activity diagram](https://user-images.githubusercontent.com/60166806/122094117-fc838b80-ce35-11eb-9599-7ea58e01930a.png)
+
 - Class diagram
 
    ![class diagram](https://user-images.githubusercontent.com/60166806/122086843-4cf6eb00-ce2e-11eb-827c-efc2af17c67d.png)
+   
 - Entity Relationship Diagram
 - Arsitektur sistem
 - Fungsi utama yang dikembangkan
