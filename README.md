@@ -53,3 +53,9 @@
 ## Saran untuk pengembangan selanjutnya
 
 ## Developer dan job desc
+
+| Nama | NIM | Role |
+| ------ | ------ | ------ |
+| Rinaldy Ansyah Pramana Lubis | G64180027 | *Front-end* |
+| Yanda Novialdi | G64180037 | *Front-end* |
+| Zuhdi Mukarram Bakhri | G64180060 | *Back-end* |
