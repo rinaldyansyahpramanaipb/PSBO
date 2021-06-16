@@ -21,8 +21,20 @@
 
 ## Spesifikasi teknis lingkungan pengembangan
 - Software
+1. Visual Studio Code ver. 1.57.0
+2. XAMPP ver. 3.3.0
+3. Google Chrome
+
 - Hardware
+1. Processor	Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz   2.11 GHz
+2. RAM	8.00 GB
+3. Windows 10 Operating system, x64-based processor
+
 - Tech Stack
+1. Framework : Laravel
+2. PHP ver. 7.3.28
+3. Composer ver. 2.1.3
+
 
 ## Konsep OOP yang digunakan
 
@@ -51,6 +63,7 @@
 - Link aplikasi (jika sudah di deploy)
 
 ## Saran untuk pengembangan selanjutnya
+Perlu dilakukan analisis yang lebih dalam lagi untuk melihat apakah sistem yang telah kami rancang dapat berjalan dengan baik apabila diterapkan pada situs KRS IPB. Selain itu, perlu juga untuk melakukan perancangan sistem secara lebih rinci berdasarkan step-step yang perlu dilakukan oleh sistem agar segala sesuatunya berjalan dengan lancar.
 
 ## Developer dan job desc
 
